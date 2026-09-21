@@ -74,7 +74,7 @@
 📁 **Mon Site de Karaté**
 > Un projet passion combinant gestion dynamique et identité visuelle pour mon club. Conçu pour mettre en avant la gestion et l'esprit des arts martiaux.
 
-📁 **Projet Informatique Sestre (S3)**
+📁 **Projet Informatique Semestre (S3)**
 > Projet académique jalon de ma formation à Nanterre. Focus sur la logique algorithmique, la structure du code et la résolution de problèmes.
 
 ---
